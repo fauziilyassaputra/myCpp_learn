@@ -1,4 +1,5 @@
 # kumpulan kode-kode c++
+kumpulan catatan-catatan kode cpp simple dan dasar
 
 # learn with mr.arfy
 i learned from youtube video with arfy slowy. correct it if you find some anomalies in the code
