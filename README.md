@@ -1,6 +1,7 @@
 # myCpp_learn
-i learned from youtube video with arfy slowy. correct it if you find some anomalies in the code
+kumpulan kode-kode c++
 
+i learned from youtube video with arfy slowy. correct it if you find some anomalies in the code
 
 # link to video:
 
