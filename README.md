@@ -1,5 +1,4 @@
-# myCpp_learn
-kumpulan kode-kode c++
+# kumpulan kode-kode c++
 
 i learned from youtube video with arfy slowy. correct it if you find some anomalies in the code
 
