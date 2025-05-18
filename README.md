@@ -1,9 +1,11 @@
-# kumpulan kode-kode c++
-kumpulan catatan-catatan kode cpp simple dan dasar
-
-# learn with mr.arfy
-i learned from youtube video with arfy slowy. correct it if you find some anomalies in the code
+# c++ simple code for beginner
+kumpulan catatan-catatan kode cpp simple dan dasar 
 
 
-# link to video:
--Tutorial Bahasa Pemograman C++ #2 : https://youtu.be/e4TtzgNQkhs?si=8bdEb3HOtaK7xozy
+# link to reference:
+- Tutorial Bahasa Pemograman C++#2 from "arfy slowy" channel :
+-  https://youtu.be/e4TtzgNQkhs?si=8bdEb3HOtaK7xozy
+- Tutorial Bahasa Pemograman C++#3 from "arfy slowy" channel :
+-  https://youtu.be/DZMW3Dwm2MY?si=-8WDgigPECqWTkQB
+- Tutorial Bahasa Pemograman C++#4 from "arfy slowy" channel :
+-  https://youtu.be/8zw8uFZSu78?si=tpeCydbMGgPDdekI
